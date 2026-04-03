@@ -56,7 +56,10 @@ Fuel efficiency comparison by manufacturer
 Scatter plot of engine size vs price (with trend line)
 Bar chart of manufacturer model counts
 Donut chart showing body style distribution
-🛠️ Tools & Technologies
+
+
+
+ Tools & Technologies
 Python
 Pandas
 NumPy
